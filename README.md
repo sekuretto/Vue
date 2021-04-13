@@ -20,6 +20,7 @@ Practice projects (13.4.2021):
 [Random User Generator](../master/random-user-generator):  
 - create first Vue app with Vue CDN  
 - get random user data using data from [Randomuser API](https://randomuser.me/)  
+  
 ![Random User Generator](random-user.png)  
 
 [Task Tracker](../master/vue-task-tracker)  (React basics)  
@@ -28,6 +29,7 @@ Practice projects (13.4.2021):
 - using npm to run dev version on localhost and build dist version  
 - using [JSON Server](https://github.com/typicode/json-server) to build own REST API for task tracker app  
 - using Vue SSR (vue-server) to add routing: router settings, views  
+  
 ![Task Tracker Development](vue-task-tracker.png)  
 ![Task Tracker](task-tracker.png)  
   
